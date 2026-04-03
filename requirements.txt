@@ -1,0 +1,16 @@
+# Web Framework & Dashboard
+Flask
+streamlit
+
+# Computer Vision & Arrays
+opencv-python
+numpy
+Pillow
+
+# Biometric AI & Dependencies
+cmake
+dlib
+face_recognition
+
+# CRITICAL FIX: Downgrade setuptools to prevent pkg_resources module crash in face_recognition_models
+setuptools<70.0.0
