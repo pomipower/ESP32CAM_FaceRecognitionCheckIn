@@ -5,6 +5,7 @@ streamlit
 # Computer Vision & Arrays
 opencv-python
 numpy
+pandas
 Pillow
 
 # Biometric AI & Dependencies
