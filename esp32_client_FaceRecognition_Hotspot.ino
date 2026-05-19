@@ -6,8 +6,8 @@
 #include "soc/rtc_cntl_reg.h"  
 
 // === NETWORK SETUP (USE MOBILE HOTSPOT) ===
-const char* ssid = "WIFI_NAME";
-const char* password = "PASSWORD";
+const char* ssid = "[WIFINAME]";
+const char* password = "[PASSWORD]";
 const char* serverName = "http://[IP_ADDRESS]/clock_in"; // YOUR PC IP
 
 // === PIN SETUP ===
